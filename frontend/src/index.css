@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+.str-chat__channel {
+  height: 100%;
+}
+
+.str-chat__container {
+  height: 100%;
+}
+
+.str-chat__list {
+  background-color: #ffffff;
+  padding: 12px;
+}
+
+.str-chat__message-input {
+  border-top: 1px solid #f8bbd0;
+  background: #fff;
+}
+
+
+.str-chat__message-list-scroll__bottom-button {
+  background-color: #B5004A !important;
+  color: white !important;
+  border: none !important;
+}
+
+.str-chat__message-list-scroll__bottom-button svg {
+  fill: white !important;
+}
+
+
+.str-chat__message-actions-list-item--mute,
+.str-chat__message-actions-list-item--flag,
+.str-chat__message-actions-list-item--pin {
+  display: none !important;
+}
+
+
+.str-chat__edit-message-form-options {
+  gap: 12px !important;
+}
+
+
+.str-chat__quoted-message-preview {
+  border-left: 3px solid #B5004A !important;
+  background: #B5004A10 !important;
+  border-radius: 4px !important;
+  padding: 4px 8px !important;
+  margin-bottom: 4px !important;
+}
+
+
+.str-chat__channel-preview-unread-badge {
+  background-color: #B5004A !important;
+  color: white !important;
+  font-size: 11px !important;
+  min-width: 20px !important;
+  height: 20px !important;
+  border-radius: 50% !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+
+.str-chat__send-button {
+  color: #B5004A !important;
+}
+
+.str-chat__send-button svg {
+  fill: #B5004A !important;
+}
+
+
+
+.str-chat__message-reactions-host {
+  display: flex !important;
+  justify-content: flex-end !important;
+  width: 100% !important;
+}
+
+.str-chat__message-reactions {
+  justify-content: flex-end !important;
+}
+
+
+.str-chat__message--me .str-chat__message-reactions-host,
+.str-chat__message:not(.str-chat__message--me) .str-chat__message-reactions-host {
+  justify-content: flex-end !important;
+}
+
+
+.str-chat__message-reactions-host .str-chat__message-reply-in-channel-button,
+.str-chat__message-reactions__reaction-count--with-own-reaction svg,
+.str-chat__reaction-list--bubble .str-chat__message-reply-in-channel-button,
+.str-chat__message-simple__actions__action--reactions + .str-chat__message-simple__actions__action--thread,
+.str-chat__li .str-chat__message-simple__actions__action--thread {
+  display: none !important;
+}
