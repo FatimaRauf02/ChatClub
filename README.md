@@ -103,6 +103,10 @@ You can chat in real time make video calls and practice speaking with people fro
 
 6. Open http://localhost:5173 in your browser
 
+## 🌐 Live Link
+
+intuitive-adaptation-production-0108.up.railway.app  
+
 
 ## License
 
