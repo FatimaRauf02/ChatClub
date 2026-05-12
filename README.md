@@ -107,8 +107,13 @@ You can chat in real time make video calls and practice speaking with people fro
 
 intuitive-adaptation-production-0108.up.railway.app 
 
-<img width="652" height="414" alt="2" src="https://github.com/user-attachments/assets/a364bd09-ae31-4834-9cf1-ec14a36dd918" />
-
+<img width="800" height="398" alt="1" src="https://github.com/user-attachments/assets/12d2e956-034d-4c98-b55c-14c37fa2b38c" />
+<img width="652" height="414" alt="2" src="https://github.com/user-attachments/assets/e981ba26-e3de-40be-8a37-dfc84b31ff1c" />
+<img width="497" height="438" alt="3" src="https://github.com/user-attachments/assets/15245e30-56e1-4f42-b2a7-81e3cab78b24" />
+<img width="947" height="435" alt="4" src="https://github.com/user-attachments/assets/172fe9f6-06a5-4f66-bad4-9bba1611a9db" />
+<img width="939" height="401" alt="5" src="https://github.com/user-attachments/assets/38f1a73a-67d7-4aa2-b72d-fac00f0fb4e1" />
+<img width="948" height="435" alt="6" src="https://github.com/user-attachments/assets/f8f5f28e-ec1b-4c90-8cf0-8272a5c3f464" />
+<img width="716" height="436" alt="videocall" src="https://github.com/user-attachments/assets/9b3ae781-affa-4db1-96a6-cef28f1a6918" />
 
 
 ## License
