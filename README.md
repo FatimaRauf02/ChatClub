@@ -105,7 +105,10 @@ You can chat in real time make video calls and practice speaking with people fro
 
 ## 🌐 Live Link
 
-intuitive-adaptation-production-0108.up.railway.app  
+intuitive-adaptation-production-0108.up.railway.app 
+
+<img width="652" height="414" alt="2" src="https://github.com/user-attachments/assets/a364bd09-ae31-4834-9cf1-ec14a36dd918" />
+
 
 
 ## License
