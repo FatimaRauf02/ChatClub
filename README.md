@@ -1,6 +1,6 @@
 # What is ChatClub
 
-A MERN Stack (MongoDB, Express, React, Node.js) real-time chat and video calling application built with the MERN stack. It is a platform where people who want to learn a new language can connect with native speakers. 
+A full stack real-time chat and video calling application built with the MERN stack. It is a platform where people who want to learn a new language can connect with native speakers. 
 You can chat in real time make video calls and practice speaking with people from around the world — completely free.
 
 
